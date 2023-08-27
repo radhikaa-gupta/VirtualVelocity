@@ -1,2 +1,0 @@
-# VirtualVelocity
-Immersive VR Game
